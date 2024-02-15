@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me discord?
+- 📫 reach me on discord?
 
 <!---
 rekkun8/rekkun8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
